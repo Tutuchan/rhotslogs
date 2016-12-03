@@ -1,0 +1,15 @@
+Package: rhotslogs
+Type: Package
+Title: Retrieve data from the hotslogs API
+Version: 0.0.1
+Author: Pierre Formont <pierre.formont@gmail.com>
+Maintainer: Pierre Formont <pierre.formont@gmail.com>
+Description: This package interfaces with the hotslogs API in order to retrieve general
+    information about the game or specific information about tournaments and players of
+    Heroes of the Storm.
+License: MIT
+Imports:
+    jsonlite
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
